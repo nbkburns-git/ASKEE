@@ -24,8 +24,10 @@ A high-performance, GPU-accelerated image and video-to-ASCII converter with a re
 ---
 
 <img width="2298" height="1652" alt="Screenshot 2026-04-23 221644" src="https://github.com/user-attachments/assets/f22962a8-05e2-476b-b575-8c055191ddda" />
-<img width="3200" height="4440" alt="6" src="https://github.com/user-attachments/assets/078420fd-0a31-4cdd-933b-fd6946a0ea22" />
-<img width="1200" height="1200" alt="2" src="https://github.com/user-attachments/assets/22231506-0100-4465-851e-09e84fa80aea" />
+<p align="center">
+  <img width="3200" height="4440" alt="6" src="https://github.com/user-attachments/assets/078420fd-0a31-4cdd-933b-fd6946a0ea22" style="width:48%;" />
+  <img width="1200" height="1200" alt="2" src="https://github.com/user-attachments/assets/22231506-0100-4465-851e-09e84fa80aea" style="width:48%;" />
+</p>
 
 ---
 
