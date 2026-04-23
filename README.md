@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 ```
     ___   _____ __ __  ___________
@@ -220,4 +220,3 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 **Built with ❤️ and way too many ASCII characters.**
 
 </div>
-]]>
